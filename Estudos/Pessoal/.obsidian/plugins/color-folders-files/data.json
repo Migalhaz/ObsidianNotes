@@ -1,0 +1,15 @@
+{
+  "styles": {
+    "Diario": {
+      "textColor": "#6c8ef4"
+    },
+    "Atividades Kanban.md": {
+      "textColor": "#4cd64f"
+    },
+    "Programação": {
+      "textColor": "#4ec150"
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}

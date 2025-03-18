@@ -1,0 +1,59 @@
+{
+  "styles": {
+    "Diario": {
+      "textColor": "#6c8ef4"
+    },
+    "Atividades Kanban.md": {
+      "textColor": "#4cd64f"
+    },
+    "GDD/Ideia.md": {
+      "textColor": "#6bdb6d"
+    },
+    "GDD/Conceito.md": {
+      "textColor": "#6ed880"
+    },
+    "GDD/Mecânicas/Resumo de Mecânicas.md": {
+      "textColor": "#79c9ec"
+    },
+    "GDD": {
+      "isBold": true,
+      "isItalic": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#2c2c2c"
+    },
+    "GDD/Mecânicas": {
+      "textColor": "#ffffff",
+      "backgroundColor": "#2c2c2c",
+      "isBold": true,
+      "isItalic": true
+    },
+    "GDD/Mecânicas/Sistema de Vida.md": {},
+    "GDD/Referências.md": {
+      "textColor": "#6d67c1"
+    },
+    "GDD/Resumo de Mecânicas.md": {
+      "textColor": "#d05d5d"
+    },
+    "GDD/Referências": {
+      "textColor": "#ffffff",
+      "backgroundColor": "#2c2c2c",
+      "isBold": true,
+      "isItalic": true
+    }
+  },
+  "presets": {
+    "Folder": {
+      "textColor": "#ffffff",
+      "backgroundColor": "#2c2c2c",
+      "isBold": true,
+      "isItalic": true
+    },
+    "Important File": {
+      "textColor": "#6ed880"
+    }
+  },
+  "presetOrder": [
+    "Folder",
+    "Important File"
+  ]
+}
