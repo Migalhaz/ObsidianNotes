@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Concluida": "checkbox",
-    "Data": "date"
+    "Data": "date",
+    "Unidade": "number"
   }
 }

@@ -5,8 +5,78 @@
     },
     "Atividades Kanban.md": {
       "textColor": "#4cd64f"
+    },
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I": {
+      "textColor": "#e92f2f",
+      "applyToSubfolders": false,
+      "isItalic": true,
+      "isBold": true
+    },
+    "Materias/Periodo 1/Matemática para Computação I": {
+      "textColor": "#42ff4f",
+      "isItalic": true,
+      "isBold": true
+    },
+    "Materias/Periodo 1/Geometria Analítica e Vetorial": {
+      "textColor": "#ee932b",
+      "isItalic": true,
+      "isBold": true
+    },
+    "Materias/Periodo 1/Introdução às Técnicas de Programação": {
+      "textColor": "#3253f5",
+      "isItalic": true,
+      "isBold": true
+    },
+    "Materias/Periodo 1/Métodos de Estudo no Ensino Superior": {
+      "textColor": "#e36dc4",
+      "isItalic": true,
+      "isBold": true
+    },
+    "Materias/Periodo 1/Agenda": {
+      "isBold": true,
+      "isItalic": true,
+      "textColor": "#ffffff"
+    },
+    "Materias/Periodo 1": {
+      "isBold": true,
+      "isItalic": true,
+      "opacity": 1,
+      "textColor": "#ffffff",
+      "backgroundColor": "#000000"
+    },
+    "Materias/Periodo 1/Horários.md": {
+      "textColor": "#ffffff",
+      "isBold": true,
+      "isItalic": true
+    },
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Teoria dos Conjuntos.md": {
+      "backgroundColor": "#ffc800",
+      "opacity": 0.6,
+      "textColor": "#000000",
+      "isBold": true,
+      "isItalic": false
+    },
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Básico de Funções.md": {
+      "backgroundColor": "#ffc800",
+      "opacity": 0.6,
+      "textColor": "#000000",
+      "isBold": true,
+      "isItalic": false
     }
   },
-  "presets": {},
+  "presets": {
+    "NotaEmProducao": {
+      "backgroundColor": "#ffc800",
+      "opacity": 0.6,
+      "textColor": "#000000",
+      "isBold": true,
+      "isItalic": false
+    },
+    "Basic": {
+      "textColor": "#ffffff",
+      "isBold": true,
+      "isItalic": true
+    }
+  },
   "presetOrder": []
 }

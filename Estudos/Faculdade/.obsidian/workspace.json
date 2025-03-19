@@ -4,27 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d7b332a96ab3b943",
+        "id": "049ad54b2f151d8d",
         "type": "tabs",
         "children": [
           {
-            "id": "75a1df358a5045eb",
+            "id": "0cc1a0abae86f414",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Atividades Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Básico de Funções.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Atividades Kanban"
+              "icon": "lucide-file",
+              "title": "Básico de Funções"
             }
           }
         ]
@@ -172,7 +166,7 @@
             }
           },
           {
-            "id": "ac9aec16369233b9",
+            "id": "6f187cb8a6a81c41",
             "type": "leaf",
             "state": {
               "type": "oz-calendar",
@@ -182,12 +176,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 473.5,
-    "collapsed": true
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,44 +193,45 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "75a1df358a5045eb",
+  "active": "cea5d4ec914f8749",
   "lastOpenFiles": [
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Teoria dos Conjuntos.md",
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Básico de Funções.md",
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Assets/Images/definicaodeumafuncao.webp",
+    "Materias/Periodo 1/Horários.md",
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Assets/Images/DiagramaDeVenn.webp",
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Assets/Images",
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Assets",
+    "Materias/Periodo 1/Matemática para Computação I/Materiais/Apresentação do curso.pdf",
+    "Materias/Periodo 1/Matemática para Computação I/Provas/MC1 Prova Unidade 1.md",
+    "Materias/Periodo 1/Matemática para Computação I/Provas/MC1 Prova Unidade 2.md",
+    "Materias/Periodo 1/Matemática para Computação I/Provas/MC1 Prova Unidade 3.md",
+    "Materias/Periodo 1/Matemática para Computação I/Provas/MC1 Prova Unidade 4.md",
+    "Materias/Periodo 1/Agenda/Provas.md",
+    "Materias/Periodo 1/Agenda/Atividades Kanban.md",
+    "Materias/Periodo 1/Matemática para Computação I/Provas",
+    "Materias/Periodo 1/Agenda/Provas/MC I",
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Atividades",
+    "Materias/Periodo 1/Geometria Analítica e Vetorial/Atividades",
+    "Materias/Periodo 1/Introdução às Técnicas de Programação/Atividades",
+    "Materias/Periodo 1/Métodos de Estudo no Ensino Superior/Atividades",
+    "Materias/Periodo 1/Matemática para Computação I/Atividades",
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Sem título.md",
+    "Agenda/Provas.md",
     "Atividade 1.md",
-    "Atividades Kanban.md",
     "Materias/Materia 1/Ementa.md",
     "Materias/Materia 1/Atividades/Atividade 1.md",
-    "Materias/Materia 1/Atividades/Sem título",
     "ccc.md",
     "hlkuij.,.md",
     "Kanban sem título.md",
     "Diario/Sem título.md",
-    "Outros",
     "Diario/2025-02-10.md",
-    "Diario",
     "Sem título/Sem título 1.md",
     "Sem título/Sem título.md",
     "Sem título.md",
     "Materias/Materia 1/Atividades/Atividade dia fodase.md",
     "Data inválida.md",
     "Materias/Materia 2/Atividades/Atividade dia fodase.md",
-    "Materias/Materia 2/Minhas Anotações",
-    "Materias/Materia 2/Atividades",
-    "Materias/Materia 2/Conteúdo",
-    "Materias/Materia 2",
-    "Materias/Materia 1/Conteúdo",
-    "Materias/Materia 1/Conteúdo.md",
-    "Materias/Materia 1/A/Sem título.md",
-    "Materias/Materia 1/Minhas Anotações",
-    "Materias/Materia 1/Atividades",
-    "Tarefas/AAA.md",
-    "A.md",
-    "2025-02-02.md",
-    "Teste.md",
-    "2025-02-18.md",
-    "2025-02-17.md",
-    "2025-02-19.md",
-    "Tarefas/Sem título.md",
-    "Tarefas/JBZDXUVAUVC.md",
     "Sem título.canvas"
   ]
 }
