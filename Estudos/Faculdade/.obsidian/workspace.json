@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Básico de Funções.md",
+                "file": "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Teoria dos Conjuntos.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Básico de Funções"
+              "title": "Teoria dos Conjuntos"
             }
           }
         ]
@@ -171,16 +171,26 @@
             "state": {
               "type": "oz-calendar",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "38e1f6ecab411f6e",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
               "icon": "OZCAL_ICON",
               "title": "OZ Calendar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,12 +203,12 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "cea5d4ec914f8749",
+  "active": "0cc1a0abae86f414",
   "lastOpenFiles": [
-    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Teoria dos Conjuntos.md",
     "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Básico de Funções.md",
-    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Assets/Images/definicaodeumafuncao.webp",
     "Materias/Periodo 1/Horários.md",
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Teoria dos Conjuntos.md",
+    "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Assets/Images/definicaodeumafuncao.webp",
     "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Assets/Images/DiagramaDeVenn.webp",
     "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Assets/Images",
     "Materias/Periodo 1/Cálculo Diferencial e Integral I/Minhas Anotações/Assets",

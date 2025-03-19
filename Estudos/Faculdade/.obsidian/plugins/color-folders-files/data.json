@@ -78,5 +78,8 @@
       "isItalic": true
     }
   },
-  "presetOrder": []
+  "presetOrder": [
+    "NotaEmProducao",
+    "Basic"
+  ]
 }
